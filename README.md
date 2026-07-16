@@ -72,7 +72,6 @@ This project is open-sourced under the MIT License — feel free to use and adap
 ---
 ## 📬 Author
 
-👩‍💻 **Bhavya Pratap**  
-📧 [Email](mailto:bhavyapratap766@gmail.com) | 🔗 [LinkedIn](linkedin.com/in/bhavyapratap17) | 🌐 [Portfolio](https://github.com/bhavyapratap17)  
+👩‍💻 **Arya Jain**  
 
 ---
